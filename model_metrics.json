@@ -1,0 +1,11 @@
+{
+  "dataset": "Wisconsin Diagnostic Breast Cancer (scikit-learn copy; commonly mirrored on Kaggle)",
+  "train_rows": 455,
+  "test_rows": 114,
+  "features": 30,
+  "accuracy": 0.9825,
+  "precision_weighted": 0.9825,
+  "recall_weighted": 0.9825,
+  "f1_weighted": 0.9825,
+  "roc_auc_benign_class": 0.9954
+}
